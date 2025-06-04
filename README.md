@@ -23,8 +23,9 @@ The goal of this project is to:
 - Strengthen my understanding of HTML & CSS fundamentals
 
 ## 🚀 Live Preview
-1- You can view the live version of the Horizon project here: [Live Preview](https://horizon-mohamed-abdelkareem.netlify.app/)
-2- You can view the live version of the Pinnacle project here: [Live Preview](https://pinnacle-mohamed-abdelkareem.netlify.app/)
+1- You can view the live version of the Horizon project here: [Live Preview](https://horizon-mohamed-abdelkareem.netlify.app/).
+
+2- You can view the live version of the Pinnacle project here: [Live Preview](https://pinnacle-mohamed-abdelkareem.netlify.app/).
 
 
 _(Optional: Add a link here if you deployed it using GitHub Pages or any hosting platform)_
