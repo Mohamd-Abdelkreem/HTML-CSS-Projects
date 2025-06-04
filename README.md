@@ -27,6 +27,10 @@ The goal of this project is to:
 
 2- You can view the live version of the Pinnacle project here: [Live Preview](https://pinnacle-mohamed-abdelkareem.netlify.app/).
 
+3- You can view the live version of the Omnifood project here: [Live Preview](https://omnifood-mohamed-abdelkareem.netlify.app/).
+
+
+
 ---
 
 Feel free to explore the code, clone the repo, and give feedback!
